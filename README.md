@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Multi-Task AI Agent System
 
 A production-ready multi-agent automation system built with **LangGraph**, **LangChain**, and **Streamlit**.
@@ -100,3 +101,6 @@ for agent in agents:
 - Bash command whitelist (read-only commands only)
 - Safe Python execution in sandboxed namespace
 - API key validation before processing
+=======
+# Task-Automation-Agents
+>>>>>>> ac765deac156c6e0e8c5f9a16fa5cf792f5bfe87
